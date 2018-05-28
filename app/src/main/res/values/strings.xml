@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Pirates</string>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_main">MyApp</string>
+    <string name="et_id_search">Введите id пользователя</string>
+    <string name="butt_search">Search</string>
+    <string name="tv_result">Полученный результат</string>
 </resources>
